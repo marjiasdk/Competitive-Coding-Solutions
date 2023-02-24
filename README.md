@@ -1,2 +1,2 @@
 # Competitive-Programming
-solutions to competitive programming platforms.
+solutions to problems on competitive programming platforms.
