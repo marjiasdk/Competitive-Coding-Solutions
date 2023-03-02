@@ -7,8 +7,6 @@ The repository is organized by site and problem, as follows:
 
 * Kattis/: This directory contains my solutions to problems from the Kattis coding site.
 
-* HackerRank/: This directory contains my solutions to problems from the HackerRank coding site.
-
 * LeetCode/: This directory contains my solutions to problems from the LeetCode coding site.
 
 # License
