@@ -1,6 +1,6 @@
 # Competitive Coding Solutions
 
-This repository contains my solutions to various problems from competitive coding sites, including Kattis, HackerRank, and LeetCode. I have organized my solutions by site and problem, making it easy to navigate and find the code for a particular problem.
+This repository contains my solutions to various problems from competitive coding sites, including Kattis and LeetCode. I have organized my solutions by site and problem, making it easy to navigate and find the code for a particular problem.
 
 # Repository Structure
 The repository is organized by site and problem, as follows:
